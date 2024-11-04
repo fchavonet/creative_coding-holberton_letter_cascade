@@ -1,6 +1,6 @@
 <img  height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/logo-web.png" alt="Web logo">
 
-# Holberton letters cascade
+# Holberton letter cascade
 
 ## 🔖 Table of contents
 
@@ -48,8 +48,8 @@ The main objectives were to enhance skills in CSS animations and JavaScript DOM 
 | `assets`       | Contains the resources required for the repository.      |
 | `README.md`    | The readme file you are currently reading 😉.            |
 | `behaviors.js` | JavaScript code for dynamic page interactions.           |
-| `index.html`   | Main HTML file for the Holberton letters cascade page.   |
-| `styles.css`   | CSS stylesheet for the Holberton letters cascade layout. |
+| `index.html`   | Main HTML file for the Holberton letter cascade page.   |
+| `styles.css`   | CSS stylesheet for the Holberton letter cascade layout. |
 
 ## 💻 <span id="installation_and_how_to_use">Installation and how to use</span>
 
@@ -61,7 +61,7 @@ The main objectives were to enhance skills in CSS animations and JavaScript DOM 
     - Run the following command:
 
 ```
-git clone https://github.com/fchavonet/web-holberton_letters_cascade.git
+git clone https://github.com/fchavonet/web-holberton_letter_cascade.git
 ```
 
 2. Open the repository you've just cloned.
@@ -70,7 +70,7 @@ git clone https://github.com/fchavonet/web-holberton_letters_cascade.git
 
 **How to use:**
 
-You can also show the effect online by clicking [here](https://fchavonet.github.io/web-holberton_letters_cascade/).
+You can also show the effect online by clicking [here](https://fchavonet.github.io/web-holberton_letter_cascade/).
 
 ## 🔧 <span id="whats-next">What's next?</span>
 
