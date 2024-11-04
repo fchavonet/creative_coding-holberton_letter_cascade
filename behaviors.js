@@ -1,16 +1,16 @@
-////////// HOLBERTON LETTERS CASCADE BEHAVIOR \\\\\\\\\\
+////////// HOLBERTON LETTER CASCADE BEHAVIOR \\\\\\\\\\
 function randomHolbertonLetters() {
     const text = ("HOLBERTON");
     holbertonLetters = text[Math.floor(Math.random() * text.length)];
     return holbertonLetters;
 }
 
-function lettersCascade() {
-    const lettersCascade = document.getElementById("letters-cascade");
+function letterCascade() {
+    const letterCascade = document.getElementById("letter-cascade");
     const letterElement = document.createElement("div");
 
     letterElement.classList.add("drop");
-    lettersCascade.appendChild(letterElement);
+    letterCascade.appendChild(letterElement);
 
     const left = Math.floor(Math.random() * 290);
     const size = Math.random() * 1.5;
@@ -22,10 +22,10 @@ function lettersCascade() {
     letterElement.style.animationDuration = 1 + duration + "s";
 
     setTimeout(function () {
-        lettersCascade.removeChild(letterElement);
+        letterCascade.removeChild(letterElement);
     }, 2000)
 }
 
 setInterval(function () {
-    lettersCascade()
+    letterCascade()
 }, 20)

@@ -31,7 +31,7 @@ h1 {
     color: var(--primary-color);
 }
 
-/* LETTERS CASCADE */
+/* LETTER CASCADE */
 #container {
     position: fixed;
     top: 50%;
@@ -48,7 +48,7 @@ h1 {
     margin-bottom: 50px;
 }
 
-#letters-cascade {
+#letter-cascade {
     position: relative;
     width: 300px;
 }
