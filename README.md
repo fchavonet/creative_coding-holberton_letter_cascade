@@ -95,4 +95,4 @@ You can also show the effect online by clicking [here](https://fchavonet.github.
 ## 👷 <span id="authors">Authors</span>
 
 **Fabien CHAVONET**
-- Github: [@fchavonet](https://github.com/fchavonet)
+- GitHub: [@fchavonet](https://github.com/fchavonet)
