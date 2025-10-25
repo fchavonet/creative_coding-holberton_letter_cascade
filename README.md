@@ -4,7 +4,7 @@
 
 This project features a captivating letter cascade animation inspired by an Instagram reel.
 
-The animation showcases the letters of the word ‘HOLBERTON’ falling gracefully to create a visually engaging experience. Built with HTML, CSS, and JavaScript, it demonstrates the potential of web animations while adding a personalized twist to a popular visual effect.
+The animation showcases the letters of the word "HOLBERTON" falling gracefully to create a visually engaging experience. Built with HTML, CSS, and JavaScript, it demonstrates the potential of web animations while adding a personalized twist to a popular visual effect.
 
 ## Objectives
 
